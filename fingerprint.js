@@ -1,5 +1,5 @@
 /*
-* fingerprintJS 0.5.4 - Fast browser fingerprint library
+* fingerprintJS 0.5.5 - Fast browser fingerprint library
 * https://github.com/Valve/fingerprintjs
 * Copyright (c) 2013 Valentin Vasilyev (valentin.vasilyev@outlook.com)
 * Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license.
