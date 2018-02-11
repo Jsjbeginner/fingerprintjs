@@ -4,7 +4,8 @@
 <a href="https://travis-ci.org/Valve/fingerprintjs"><img src="http://img.shields.io/travis/Valve/fingerprintjs/master.svg?style=flat" /></a>
 <a href="https://gitter.im/Valve/fingerprintjs"><img src="https://badges.gitter.im/Valve/fingerprintjs.png"/></a>
 </p>
-
+## FingerprintJS PRO - https://fingerprintjspro.com
+Professional version for state of the art identification. Sign up for early access.
 ...........................................................................
 ## DEPRECATION WARNING                                                     
 
@@ -206,3 +207,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [uglifyjs]: https://github.com/mishoo/UglifyJS
 [closure]: http://closure-compiler.appspot.com
 [canvas_research]: http://cseweb.ucsd.edu/~hovav/dist/canvas.pdf
+[fpjspro]: https://fingerprintjspro.com
