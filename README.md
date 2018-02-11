@@ -5,7 +5,7 @@
 <a href="https://gitter.im/Valve/fingerprintjs"><img src="https://badges.gitter.im/Valve/fingerprintjs.png"/></a>
 </p>
 
-## FingerprintJS PRO - https://fingerprintjspro.com
+## FingerprintJS PRO - [https://fingerprintjspro.com](https://fingerprintjspro.com/#contact)
 
 Professional version for state of the art identification. Contact for early access.
 
