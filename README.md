@@ -4,8 +4,11 @@
 <a href="https://travis-ci.org/Valve/fingerprintjs"><img src="http://img.shields.io/travis/Valve/fingerprintjs/master.svg?style=flat" /></a>
 <a href="https://gitter.im/Valve/fingerprintjs"><img src="https://badges.gitter.im/Valve/fingerprintjs.png"/></a>
 </p>
+
 ## FingerprintJS PRO - https://fingerprintjspro.com
+
 Professional version for state of the art identification. Sign up for early access.
+
 ...........................................................................
 ## DEPRECATION WARNING                                                     
 
