@@ -205,7 +205,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [mit]: http://www.opensource.org/licenses/mit-license.php
 [murmur]: http://en.wikipedia.org/wiki/MurmurHash
-[research]: https://panopticlick.eff.org/browser-uniqueness.pdf
+[research]: https://panopticlick.eff.org/static/browser-uniqueness.pdf
 [phantomjs]: http://phantomjs.org/
 [uglifyjs]: https://github.com/mishoo/UglifyJS
 [closure]: http://closure-compiler.appspot.com
