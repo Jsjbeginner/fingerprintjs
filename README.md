@@ -1,9 +1,6 @@
-<p align="center">
-<h2>fingerprintjs</h2>
-<br/>
-<a href="https://travis-ci.org/Valve/fingerprintjs"><img src="http://img.shields.io/travis/Valve/fingerprintjs/master.svg?style=flat" /></a>
-<a href="https://gitter.im/Valve/fingerprintjs"><img src="https://badges.gitter.im/Valve/fingerprintjs.png"/></a>
-</p>
+ <h3>
+  <a href="https://fingerprintjs.com/pro.html">FPJS PRO - Try the beta</a>
+  </h3>
 
 
 ...........................................................................
