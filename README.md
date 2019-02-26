@@ -1,5 +1,5 @@
  <h3>
-  <a href="https://fingerprintjs.com/pro.html">FPJS PRO - Try the beta</a>
+  🔥<a href="https://fingerprintjs.com/pro.html">FPJS PRO - Try the beta</a>🔥
   </h3>
 
 
