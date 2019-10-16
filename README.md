@@ -1,5 +1,5 @@
  <h3>
-   <a href="https://fpjs.io">Try FPJS PRO - 99.5% identification accuracy</a>
+   <a href="https://fingerprintjs.com/demo">Try Fingerprintjs.com PRO Demo - 99.5% identification accuracy</a>
   </h3>
 
 
