@@ -1,4 +1,7 @@
- <h3>
+<h2>
+ 浏览器端js为本机生成固定的uuid
+</h2>
+<h3>
    <a href="https://fingerprintjs.com/demo">Try Fingerprintjs.com PRO Demo - 99.5% identification accuracy</a>
   </h3>
 
