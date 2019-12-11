@@ -161,7 +161,7 @@ The example is in `run.sh` file.
 To build the project, run `grunt` command. This will run the jshint and uglify the code into `build/fingerprint.min.js`.
 Running specs with grunt is not implemented but is on my todo list.
 
-### Manual minification
+### Manual minification-压缩js
 
 To minify the file I recommend using [uglifyjs][uglifyjs](requires node.js)
 If you don't have it installed, install it with:
