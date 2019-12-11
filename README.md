@@ -5,25 +5,16 @@
  注：此文本基于原创文章做了删减以及某些位置的修改
 </h4>
 <h3>
-   <a href="https://fingerprintjs.com/demo">Try Fingerprintjs.com PRO Demo - 99.5% identification accuracy</a>
+   <a href="https://fingerprintjs.com/demo">尝试指纹打印演示- 99.5%识别精度</a>
   </h3>
 
-
-...........................................................................
-## DEPRECATION WARNING                                                     
-
-No new development will happen in this repository. A new modern library   
-called [Fingerprintjs2](https://github.com/Valve/fingerprintjs2) is being developed.         
-Please submit only bugs, no new feature requests here.                    
-If you want something to be implemented, please submit an issue in the    
-new repository.                                                           
-                                                                          
-..........................................................................
 
 Fast browser fingerprint library. Written in pure JavaScript, no dependencies. 
 By default uses [Murmur hashing][murmur] and returns a 32bit integer number.
 Hashing function can be easily replaced.
 Feather weight: only **1.2** KB when gzipped.
+
+快速浏览库。用纯JavaScript编写的，没有依赖关系。返回一个32位整数，可方便地替换散列函数。1.2KB压缩包。
 
 ## What is fingerprinting?
 
@@ -31,10 +22,10 @@ Fingerprinting is a technique, outlined in [the research by Electronic Frontier 
 anonymously identifying a web browser with accuracy of up to 94%. 
 
 
-A browser is queried for its agent string, screen color depth, language,
-installed plugins with supported mime types, timezone offset and other capabilities, 
+A browser is queried for its agent string(代理), screen color depth(屏幕颜色深度-分别率), language(默认语言),
+installed plugins(插件) with supported mime types, timezone offset and other capabilities(性能), 
 such as local storage and session storage. Then these values are passed through a hashing function
-to produce a fingerprint that gives weak guarantees of uniqueness.
+to produce a fingerprint that gives weak guarantees of uniqueness.（这些值通过散列函数来产生指纹，从而给出唯一性的弱保证。）
 
 No cookies are stored to identify a browser.
 
@@ -46,7 +37,7 @@ or
 [discuss on reddit](http://redd.it/1ic6ew)
 
 
-## Installation
+## Installation-安装
 
 ### Bower
 
@@ -80,7 +71,7 @@ After that you can add the file to sprockets:
 
 ### Manual
 
-Just copy the `fingerprint.js` file to your js directory.
+Just copy the `fingerprint.js` file to your js directory.//只需复制指纹识别系统文件到您的JS目录
 
 ## Usage
 
